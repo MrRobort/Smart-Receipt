@@ -1,9 +1,8 @@
-{
-  "data": [
-      {
-        "receipt_id" : [
-          
-        ]
-      }
-    ]
+[
+  {
+    "data": []
+  },
+  {
+    "receipt_id": []
   }
+]
