@@ -1,6 +1,7 @@
 {
   "posts": [
-    { "data": ["receipt_id" : ] },
+    { "data": {'name': 'vine', 'price': 20.99} },
+    { "receipt_id": 1001}
   ],
   "comments": [
     { "id": 1, "body": "Temp JSON For Parsing", "postId": 1 },
